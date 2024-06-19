@@ -195,13 +195,13 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/samir321-pixel/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel&theme=highcontrast&hide_border=true&background=0D1117&stroke=0000"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=highcontrast&show_icons=true"/>
-<!--         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir321-pixel&theme=vue"/> -->
+  <a href="https://github.com/Charul00/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charul00&theme=highcontrast&hide_border=true&background=0D1117&stroke=0000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Charul00&theme=highcontrast&show_icons=true"/>
+<!--         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charul00&theme=vue"/> -->
   </a>
 </p>
-<a>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samir321-pixel&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/> </a>
+<a>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charul00&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/> </a>
 <h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC0CB&width=435&lines=I+really+like+music!" alt="Typing SVG" /></a>
 </h1>
@@ -215,14 +215,14 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </p>
 
 
-<!-- <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir321-pixel&layout=compact)"/>
+<!-- <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charul00&layout=compact)"/>
   </a> -->
 
 <!-- ## 🔥 My Profile Views -->
-<!-- <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=samir321-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi2508" /> </h1> -->
+<!-- <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=Charul00&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi2508" /> </h1> -->
 
 <!-- <h3>Where to find me 😃 </h3>
-<p><a href="https://github.com/samir321-pixel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<p><a href="https://github.com/Charul00" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="saitwalsamir@gmail.com/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a> 
