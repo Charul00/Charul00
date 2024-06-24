@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charul Chim</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charul00&label=Profile%20views&color=0e75b6&style=flat" alt="charul00" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charul00" alt="charul00" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/charull0" target="blank"><img src="https://img.shields.io/twitter/follow/charull0?logo=twitter&style=for-the-badge" alt="charull0" /></a> </p>
 
 - 🔭 I’m currently working on **Paykaro**
 
