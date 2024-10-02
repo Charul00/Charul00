@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://mycinea.com/demo/newdemo](https://www.charulchim.me)
+- 👨‍💻 All of my projects are available at [https://www.charulchim.me](https://www.charulchim.me)
 
 - 💬 Ask me about **transforming an idea into a reality through web Development**
 
