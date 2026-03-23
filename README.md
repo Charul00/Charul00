@@ -1,45 +1,152 @@
-<h1 align="center">Hi 👋, I'm Charul Chim</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charul00&label=Profile%20views&color=0e75b6&style=flat" alt="charul00" /> </p>
+# Hi 👋, I'm Charul Chim
 
+### 🤖 Gen AI Engineer & Full Stack Developer
 
+*Building intelligent systems that think, automate, and scale.*
 
-- 🔭 I’m currently working on **Paykaro**
+[![Portfolio](https://img.shields.io/badge/Portfolio-charulchim.me-black?style=flat-square&logo=vercel)](https://www.charulchim.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charul_Chim-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/charul-chim-05347a253)
+[![Twitter](https://img.shields.io/badge/Twitter-@charull0-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/charull0)
+[![Email](https://img.shields.io/badge/Email-charulchim@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:charulchim@gmail.com)
 
-- 🌱 I’m currently learning **Advanced MERN Stack concepts.**
+</div>
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.charulchim.me](https://www.charulchim.me)
+## 🧠 About Me
 
-- 💬 Ask me about **transforming an idea into a reality through web Development**
+I'm a **Gen AI Engineer** passionate about embedding intelligence into every layer of software. My focus is on building **LLM-powered applications**, **multi-agent automation systems**, and **RAG pipelines** — combined with full-stack engineering to ship complete, production-grade products.
 
-- 📫 How to reach me **charulchim@gmail.com**
+- 🔭 Currently building **Paykaro** — integrating AI automation into fintech workflows
+- 🤖 Specialised in **LangChain**, **LangGraph**, **RAG architectures**, and **multi-agent systems**
+- 🌱 Deepening expertise in **Agentic AI**, **LLM fine-tuning**, and **AI-native product design**
+- 🔗 I believe every web app should have an AI layer — I build both the brains and the body
+- ⚡ Fun fact: *I find bugs in code, not in people.*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OXsOkmAw7Xnutem9Q57ve1HHMrnkukjG/view?usp=sharing](https://drive.google.com/file/d/1OXsOkmAw7Xnutem9Q57ve1HHMrnkukjG/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I find bug in code not in people.**
+## 🚀 What I Build
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/charull0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charull0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/charul-chim-05347a253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charul-chim-05347a253" height="30" width="40" /></a>
+```
+🤖 Gen AI Applications     →  RAG chatbots, AI agents, LLM-powered tools
+🔄 Intelligent Automation  →  NLP pipelines, sentiment analysis, workflow bots  
+🌐 Full Stack Products      →  React/Next.js frontends + Django/FastAPI backends
+📊 AI-Integrated Systems   →  Embedding AI into dashboards, APIs, and data flows
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / Gen AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6B46C1?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### 🌐 Full Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🔬 Featured Projects
+
+### 🤖 YouTube RAG Chatbot
+**`Python` `LangChain` `OpenAI API` `FAISS` `FastAPI`**
+
+> Intelligent chatbot using RAG architecture — ingests YouTube content, chunks and embeds it into a vector store (FAISS), and enables semantic multi-turn Q&A via OpenAI API.
+
+- Built full ingestion pipeline: data preprocessing → chunking → vector embeddings → semantic search
+- FastAPI REST layer with prompt templates and memory management for contextual conversations
+- Demonstrates end-to-end RAG: from raw data to intelligent response
+
+---
+
+### 🧩 AI Blog Generation Agent *(Multi-Agent System)*
+**`Python` `LangGraph` `LangChain` `OpenAI` `Gemini` `Tavily` `Streamlit`**
+
+> Production-style **multi-agent automation** system (orchestrator–worker: planner → router → worker → reducer) that autonomously researches and generates blogs end-to-end.
+
+- Architected agentic graph: planner decomposes tasks, router dispatches to workers, reducer synthesises output
+- Integrated Tavily for real-time web research + automated citation generation
+- Full autonomy from topic input → researched, cited, publication-ready blog
+
+---
+
+### 💬 Sentiment Analysis & Automation Platform *(@ Grovio)*
+**`Django` `Next.js` `MongoDB` `Python` `NLP` `REST APIs`**
+
+> NLP-powered sentiment analysis web app with **AI chatbot** for automated user interactions across Discord, WhatsApp, Facebook, and Slack.
+
+- Integrated multi-platform REST APIs for real-time sentiment monitoring
+- Built AI chatbot layer using Python for intelligent query handling
+- Full-stack: Django backend + Next.js frontend + MongoDB storage
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period | Focus |
+|------|---------|--------|-------|
+| Jr. Associate Engineer | **Zensar Technologies** *(NVIDIA client)* | Sept–Dec 2025 | Python AI apps, ML pipelines, autonomous driving data |
+| Full Stack Developer | **Grovio Pvt Ltd** | Apr–Aug 2025 | AI chatbot, NLP automation, multi-platform integrations |
+| Frontend Developer | **Deva Defi Pvt Ltd** | Nov 2024–Apr 2025 | React/Next.js, REST API integrations, KYC workflows |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charul00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charul00&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charul00&theme=tokyonight&hide_border=true"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charul00&show_icons=true&locale=en&layout=compact" alt="charul00" /></p>
+---
 
+## 🎓 Education & Certifications
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charul00&" alt="charul00" /></p>
+**B.Tech, Computer Science** — Pimpri Chinchwad College of Engineering, Pune *(2021–2025)*
 
+`Full Stack Web Development` &nbsp;|&nbsp; `Salesforce Certified AI Associate` &nbsp;|&nbsp; `API Fundamentals` &nbsp;|&nbsp; `Foundation of Cybersecurity`
 
+---
 
- 
+<div align="center">
 
+### 💡 My Philosophy
 
+*"AI should not just assist applications — it should be the core of them.*
+*I build systems where automation isn't an afterthought, it's the architecture."*
 
+📫 Reach me at **charulchim@gmail.com** &nbsp;|&nbsp; 🌐 [charulchim.me](https://www.charulchim.me) &nbsp;|&nbsp; 📄 [Resume](https://drive.google.com/file/d/1OXsOkmAw7Xnutem9Q57ve1HHMrnkukjG/view?usp=sharing)
 
-
+</div>
