@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Charul Chim
 
-### 🤖 Gen AI Engineer & Full Stack Developer
+### 🤖 Full Stack Developer
 
 *Building intelligent systems that think, automate, and scale.*
 
