@@ -1,152 +1,267 @@
+````markdown
 <div align="center">
 
 # Hi 👋, I'm Charul Chim
 
-### 🤖 Full Stack Developer
+### 🚀 Backend & GenAI Engineer
 
-*Building intelligent systems that think, automate, and scale.*
+*Building scalable backend systems and AI-powered applications that automate, reason, and scale.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-charulchim.me-black?style=flat-square&logo=vercel)](https://www.charulchim.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charul_Chim-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/charul-chim-05347a253)
-[![Twitter](https://img.shields.io/badge/Twitter-@charull0-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/charull0)
-[![Email](https://img.shields.io/badge/Email-charulchim@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:charulchim@gmail.com)
+<p>
+<a href="https://www.charulchim.me"><img src="https://img.shields.io/badge/Portfolio-charulchim.me-black?style=for-the-badge&logo=vercel" /></a>
+<a href="https://linkedin.com/in/charul-chim-05347a253"><img src="https://img.shields.io/badge/LinkedIn-Charul%20Chim-0077B5?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://twitter.com/charull0"><img src="https://img.shields.io/badge/Twitter-@charull0-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+<a href="mailto:charulchim@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=charul00&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I'm a **Gen AI Engineer** passionate about embedding intelligence into every layer of software. My focus is on building **LLM-powered applications**, **multi-agent automation systems**, and **RAG pipelines** — combined with full-stack engineering to ship complete, production-grade products.
+I'm a **Backend & GenAI Engineer** passionate about building scalable backend systems and integrating AI into production applications.
 
-- 🔭 Currently building **Paykaro** — integrating AI automation into fintech workflows
-- 🤖 Specialised in **LangChain**, **LangGraph**, **RAG architectures**, and **multi-agent systems**
-- 🌱 Deepening expertise in **Agentic AI**, **LLM fine-tuning**, and **AI-native product design**
-- 🔗 I believe every web app should have an AI layer — I build both the brains and the body
-- ⚡ Fun fact: *I find bugs in code, not in people.*
+My work combines **Python, Django, FastAPI, PostgreSQL, Redis, and modern backend engineering** with **LLMs, RAG pipelines, LangGraph, and multi-agent systems** to create intelligent software that solves real-world problems.
 
----
-
-## 🚀 What I Build
-
-```
-🤖 Gen AI Applications     →  RAG chatbots, AI agents, LLM-powered tools
-🔄 Intelligent Automation  →  NLP pipelines, sentiment analysis, workflow bots  
-🌐 Full Stack Products      →  React/Next.js frontends + Django/FastAPI backends
-📊 AI-Integrated Systems   →  Embedding AI into dashboards, APIs, and data flows
-```
+- 🚀 Building **AI-powered backend systems**
+- 🤖 Developing **LLM Applications, AI Agents & RAG Pipelines**
+- 🌍 Open Source Contributor to the **Django Framework**
+- ⚙️ Interested in **Distributed Systems, System Design & AI Infrastructure**
+- 🌱 Currently learning **Kafka, Redis, Microservices & Kubernetes**
+- 💡 I enjoy building products where Backend Engineering meets Artificial Intelligence.
 
 ---
 
-## 🛠️ Tech Stack
+# 🌍 Open Source
 
-### 🤖 AI / Gen AI
+## 🚀 Django Framework Contributor
+
+Contributed to the **official Django Framework** through a pull request reviewed and merged by Django maintainers.
+
+### Highlights
+
+- ✅ Merged Pull Request into Django
+- 🔧 Improved middleware compatibility using `MiddlewareMixin`
+- 🧪 Worked with Django's testing framework
+- 🤝 Collaborated with maintainers through the open-source review process
+
+> 🔗 **Merged PR:** *(Add your PR URL here)*
+
+---
+
+# 🚀 What I Build
+
+```text
+🚀 Backend Systems        → Django • FastAPI • REST APIs • PostgreSQL
+🤖 GenAI Applications     → AI Agents • LangGraph • LangChain • RAG
+⚙️ AI Infrastructure      → Embeddings • Vector Search • LLM Workflows
+🌐 Full Stack Products    → React • Next.js • Django
+```
+
+---
+
+# 🛠 Tech Stack
+
+### 🚀 Backend
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+
+### 🤖 AI / GenAI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-6B46C1?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### 🌐 Full Stack
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### 💾 Database
 
-### 🗄️ Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+
+### ☁️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
 
 ---
 
-## 🔬 Featured Projects
+# 🔬 Featured Projects
 
-### 🤖 YouTube RAG Chatbot
-**`Python` `LangChain` `OpenAI API` `FAISS` `FastAPI`**
+## 🤖 Investor Research Agent
 
-> Intelligent chatbot using RAG architecture — ingests YouTube content, chunks and embeds it into a vector store (FAISS), and enables semantic multi-turn Q&A via OpenAI API.
+> AI-powered investment research platform using **LangGraph**, **OpenAI**, **FastAPI**, and **PostgreSQL**.
 
-- Built full ingestion pipeline: data preprocessing → chunking → vector embeddings → semantic search
-- FastAPI REST layer with prompt templates and memory management for contextual conversations
-- Demonstrates end-to-end RAG: from raw data to intelligent response
-
----
-
-### 🧩 AI Blog Generation Agent *(Multi-Agent System)*
-**`Python` `LangGraph` `LangChain` `OpenAI` `Gemini` `Tavily` `Streamlit`**
-
-> Production-style **multi-agent automation** system (orchestrator–worker: planner → router → worker → reducer) that autonomously researches and generates blogs end-to-end.
-
-- Architected agentic graph: planner decomposes tasks, router dispatches to workers, reducer synthesises output
-- Integrated Tavily for real-time web research + automated citation generation
-- Full autonomy from topic input → researched, cited, publication-ready blog
+- Multi-Agent Architecture
+- Financial Report Analysis
+- RAG Pipeline
+- Semantic Search
+- Production Backend APIs
 
 ---
 
-### 💬 Sentiment Analysis & Automation Platform *(@ Grovio)*
-**`Django` `Next.js` `MongoDB` `Python` `NLP` `REST APIs`**
+## 🧾 KYC Agentic AI
 
-> NLP-powered sentiment analysis web app with **AI chatbot** for automated user interactions across Discord, WhatsApp, Facebook, and Slack.
+> Automated KYC verification platform powered by AI Agents.
 
-- Integrated multi-platform REST APIs for real-time sentiment monitoring
-- Built AI chatbot layer using Python for intelligent query handling
-- Full-stack: Django backend + Next.js frontend + MongoDB storage
-
----
-
-## 💼 Experience
-
-| Role | Company | Period | Focus |
-|------|---------|--------|-------|
-| Jr. Associate Engineer | **Zensar Technologies** *(NVIDIA client)* | Sept–Dec 2025 | Python AI apps, ML pipelines, autonomous driving data |
-| Full Stack Developer | **Grovio Pvt Ltd** | Apr–Aug 2025 | AI chatbot, NLP automation, multi-platform integrations |
-| Frontend Developer | **Deva Defi Pvt Ltd** | Nov 2024–Apr 2025 | React/Next.js, REST API integrations, KYC workflows |
+- OCR Document Processing
+- Identity Verification
+- Risk Assessment
+- AI Workflow Automation
 
 ---
 
-## 📊 GitHub Stats
+## 💳 Paykaro
+
+> AI-powered fintech platform integrating intelligent automation into financial workflows.
+
+- Django Backend
+- PostgreSQL
+- REST APIs
+- AI Integrations
+
+---
+
+## 🎥 YouTube RAG Chatbot
+
+> Intelligent chatbot built with Retrieval-Augmented Generation.
+
+- Transcript Processing
+- Vector Embeddings
+- Semantic Search
+- Context-Aware Conversations
+
+---
+
+## ✍️ AI Blog Generation Agent
+
+> Autonomous multi-agent blog generation using LangGraph.
+
+- Planner Agent
+- Research Agent
+- Writer Agent
+- Reviewer Agent
+
+---
+
+## 💬 Sentiment Analysis Platform
+
+> NLP-powered sentiment analysis platform with AI chatbot integrations across Discord, WhatsApp, Facebook and Slack.
+
+---
+
+# 💼 Experience
+
+| Role | Company | Focus |
+|------|---------|-------|
+| **Jr. Associate Engineer** | Zensar Technologies *(NVIDIA Client)* | Backend APIs • AI Applications • ML Pipelines |
+| **Full Stack Developer** | Grovio Pvt. Ltd. | Django • AI Chatbot • REST APIs |
+| **Frontend Developer** | Deva Defi Pvt. Ltd. | React • Next.js • KYC Workflows |
+
+---
+
+# 🎯 Engineering Interests
+
+- Backend Engineering
+- Generative AI
+- AI Agents
+- RAG Pipelines
+- Distributed Systems
+- System Design
+- Microservices
+- PostgreSQL
+- Redis
+- Kafka
+- Open Source
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charul00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charul00&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=charul00&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charul00&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charul00&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charul00&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=charul00&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-## 🎓 Education & Certifications
+# 📚 Currently Learning
 
-**B.Tech, Computer Science** — Pimpri Chinchwad College of Engineering, Pune *(2021–2025)*
+- Advanced Django Internals
+- Distributed Systems
+- Kafka Event Streaming
+- Redis Caching
+- Microservices
+- Kubernetes
+- AI Infrastructure
+- LLM Evaluation
 
-`Full Stack Web Development` &nbsp;|&nbsp; `Salesforce Certified AI Associate` &nbsp;|&nbsp; `API Fundamentals` &nbsp;|&nbsp; `Foundation of Cybersecurity`
+---
+
+# 🎓 Education & Certifications
+
+### 🎓 Education
+
+**B.Tech in Computer Engineering**  
+Pimpri Chinchwad College of Engineering
+
+### 📜 Certifications
+
+- Salesforce Certified AI Associate
+- API Fundamentals
+- Foundation of Cybersecurity
+- Full Stack Web Development
 
 ---
 
 <div align="center">
 
-### 💡 My Philosophy
+## 💡 Philosophy
 
-*"AI should not just assist applications — it should be the core of them.*
-*I build systems where automation isn't an afterthought, it's the architecture."*
+> *"Great software is built on strong engineering. AI makes it even more powerful."*
 
-📫 Reach me at **charulchim@gmail.com** &nbsp;|&nbsp; 🌐 [charulchim.me](https://www.charulchim.me) &nbsp;|&nbsp; 📄 [Resume](https://drive.google.com/file/d/1OXsOkmAw7Xnutem9Q57ve1HHMrnkukjG/view?usp=sharing)
+### 📫 Let's Connect
+
+🌐 **Portfolio:** https://www.charulchim.me
+
+💼 **LinkedIn:** https://linkedin.com/in/charul-chim-05347a253
+
+📧 **Email:** charulchim@gmail.com
+
+📄 **Resume:** https://drive.google.com/file/d/1OXsOkmAw7Xnutem9Q57ve1HHMrnkukjG/view
+
+---
+
+⭐ **Thanks for visiting my profile! If you like my work, consider starring my repositories.**
 
 </div>
+````
